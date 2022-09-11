@@ -4,7 +4,8 @@
  *
  * Description: using main function
  * this program print all the numbers of base 16
- * Return 0 on success
+ *
+ * Return: 0 Always (success)
  */
 int main(void)
 {
