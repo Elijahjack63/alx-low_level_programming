@@ -4,7 +4,7 @@
  *
  * Description: using main function
  * this program print all the numbers of base 16
- * Return 0
+ * Return 0 on success
  */
 int main(void)
 {
@@ -19,5 +19,5 @@ for (n = 'a' ; n < 'g' ; n++)
 	putchar(n);
 }
 putchar ('\n');
-return(0);
+return (0);
 }
