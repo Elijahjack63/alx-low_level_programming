@@ -3,12 +3,11 @@
 
 
 /**
- * * main - print the string in the put function
+ * main - print the string in the put function
  *
- * *
+ *
  *
  * Description: print out variable size
- *
  * Return: 0
  */
 
