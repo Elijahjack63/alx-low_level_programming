@@ -7,9 +7,7 @@
  *
  * *
  *
- * * Description: using the main function
- *
- * * this program prints "Programming is like building a multilingual puzzle
+ * Description: print out variable size
  *
  * Return: 0
  */
