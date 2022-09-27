@@ -2,11 +2,11 @@
 
 /**
  * _memset - memory with a constant byte
- * @s: - string with a constance byte
+ * @s: string with a constance byte
  * @n: bytes of the memory area to fll
  * @b: memory to fill
  *
- * Return: Always (0)
+ * Return: The memory area filled
  */
 char *_memset(char *s, char b, unsigned int n);
 {
