@@ -5,15 +5,16 @@
  * @s: - string with a constance byte
  * @n: bytes of the memory area to fll
  * @b: memory to fill
+ *
  * Return: Always (0)
  */
 char *_memset(char *s, char b, unsigned int n);
 {
-	unsigned int i;
+	unsigned int a;
 
-	for (i = 0; i < n; i++)
+	for (a = 0; a < n; i++)
 	{
-		s[i] = b;
+		s[a] = b;
 	}
 
 	return (s);
