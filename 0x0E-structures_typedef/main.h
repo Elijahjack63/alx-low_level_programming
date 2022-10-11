@@ -3,9 +3,9 @@
 
 #include <stdio.h>
 dog.h
-1-init_dog.c
-2-print_dog.c
-4-new_dog.c
-5-free_dog.c
+void init_dog(struct dog *d, char *name, float age, char *owner);
+void print_dog(struct dog *d);
+dog_t *new_dog(char *name, float age, char *owner);
+void free_dog(dog_t *d);
 
 #endif
