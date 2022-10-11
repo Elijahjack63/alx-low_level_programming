@@ -1,5 +1,6 @@
-#include "0-object_like_macro.h"
-#define TABLESIZE BUFSIZE
-#define BUFSIZE 1024
+#ifndef OBJECT_LIKE_MACRO_H
+#define OBJECT_LIKE_MACRO_H
+
+#define SIZE 1024
 
 #endif
